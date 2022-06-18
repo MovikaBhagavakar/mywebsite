@@ -1,0 +1,81 @@
+.center {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: 100px;
+    margin-top:150px;
+    width: 200px;;
+    height: 200px;
+    border-radius : 50%;
+    align-items : center;
+}
+.heading{
+    
+    color: white ;
+    font-size :30px;
+     position: absolute;
+    top: 50%;
+    left: 41%;
+    padding-top: 80PX;
+}
+
+
+.mypro{
+    background-color :black;
+    color: white;
+    font-size: 20px;
+
+}
+
+.content{
+    width: 5px;
+    height: 5px;
+    display: inline;
+    padding: left 4.1 vW;
+    padding-right: 4.1 vm;
+    border-radius: 10px;
+    margin-right: 23px 67px 56px 0;
+}
+
+.item{
+    display: inline;
+    /* padding-top: 50px;
+    width: 50% */
+    color: white;
+    text-decoration: none;
+
+    
+
+    
+}
+.items{
+    margin :0;
+    height: 24px;
+    list-style-type: none;
+    padding-bottom:24px 0;
+    position:absolute;
+    float: right;
+  
+}
+.navlist-right{
+    background:black;
+    color:white;
+    
+    
+
+}
+a:hover{
+    background: white;
+    
+}
+
+
+.instra{
+    /* float : left;
+    height: 150px;
+    margin-bottom:10px;
+    padding: 10px;
+    vertical-align: left;
+} */
+
+} 
